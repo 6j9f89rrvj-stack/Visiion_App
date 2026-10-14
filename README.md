@@ -4,7 +4,7 @@
 
 **Ta bibliothèque de films et séries, façon site de streaming.**
 
-[**Télécharger la dernière version**](https://github.com/6j9f89rrvj-stack/Visiion-releases/releases/latest)
+[**Télécharger la dernière version**](https://github.com/6j9f89rrvj-stack/Visiion_App/releases/latest)
 
 </div>
 
@@ -17,7 +17,7 @@ avec reprise et « vu » automatiques, « Où regarder », Ma liste et Ma collec
 
 ## Installation
 
-1. Télécharge `Visiion_x.y.z_x64-setup.exe` depuis la [dernière version](https://github.com/6j9f89rrvj-stack/Visiion-releases/releases/latest).
+1. Télécharge `Visiion_x.y.z_x64-setup.exe` depuis la [dernière version](https://github.com/6j9f89rrvj-stack/Visiion_App/releases/latest).
 2. Windows peut afficher « Windows a protégé votre ordinateur » (l'application n'est pas signée par un
    certificat payant) : **Informations complémentaires** › **Exécuter quand même**.
 3. Ensuite, Visiion se met à jour tout seul : quand une nouvelle version est publiée ici, il propose de
